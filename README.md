@@ -149,3 +149,7 @@
 - [Telegram 账号购买指南](https://github.com/cointaboo/telegram-account-buy-guide) — 买号前该看什么、怎么验、哪些坑
 - [美区 Apple ID 购买指南](https://github.com/cointaboo/apple-id-purchase-guide) — 独享/共享/免税州怎么选
 - [短信接码平台选择指南](https://github.com/cointaboo/sms-verification-guide) — 虚拟号、实体卡、长期续租怎么挑
+
+---
+
+**原文与完整指南**：https://yuantou.one/guide/
